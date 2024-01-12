@@ -44,8 +44,14 @@ p{
     background-color: black;  
     color:white;
 }
+.remote h1{
+    font-size: larger;
+}
+.remote p{
+    font-size: large;
+}
 .remote img{
-    margin-top: 40%;
+    margin-top: 60%;
     align-items: center;
     gap: 10px;
 }
